@@ -1,3 +1,8 @@
 .pic {
     width: 300px;
 }
+
+.iconProperty {
+    margin-left: 8px;
+    color: currentColor;
+}
